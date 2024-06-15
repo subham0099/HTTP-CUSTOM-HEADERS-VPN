@@ -1,4 +1,3 @@
-from flask import render_template
 from threading import Thread
 app = Flask(__name__)
 @app.route('/')
