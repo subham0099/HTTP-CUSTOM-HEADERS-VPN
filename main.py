@@ -1,3 +1,5 @@
+from keep_alive import keep_alive
+keep_alive()
 from src.tunnel import Tun
 class injector_init_():
     def __init__(self):
